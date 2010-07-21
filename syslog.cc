@@ -5,7 +5,7 @@
  * Author:  Chris Dew
  * Website: http://www.thorcom.co.uk
  * Contact: cmsdew@gmail.com, http://github.com/chrisdew
- *
+ * Licence: MIT, BSD and GPLv2.
  */
 
 #include <v8.h>
